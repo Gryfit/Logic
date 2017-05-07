@@ -1,4 +1,4 @@
-# Logic_SML
+# Logic
 	AGH IET Computer science:  Logic Lab
 
 
