@@ -4,3 +4,4 @@
 
 	1 task:  SML implementation of basic algorithms
 	2 task: Cpp/Python implementation of Church numerals and required operations
+	3 task: Proves of expressions in Coq
